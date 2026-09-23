@@ -4,5 +4,5 @@ def check_even_odd(num):
     else:
         return "Odd"
 
-print(check_even_odd(11))
-print(check_even_odd(20))
+# print(check_even_odd(11))
+# print(check_even_odd(20))
