@@ -6,6 +6,6 @@ def positive_negative_zero(num):
     else:
         return "zero"
 
-print(positive_negative_zero(10))
-print(positive_negative_zero(-20))
-print(positive_negative_zero(0))
+# print(positive_negative_zero(10))
+# print(positive_negative_zero(-20))
+# print(positive_negative_zero(0))
